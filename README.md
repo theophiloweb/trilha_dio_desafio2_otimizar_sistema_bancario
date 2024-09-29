@@ -7,7 +7,7 @@
 
 ## Descrição do Projeto
 
-Este sistema bancário foi desenvolvido como parte do **Curso de Engenharia de Dados 2024**, promovido pelo **Santander Coders** em parceria com a **Ada Tech**. O objetivo principal deste projeto é simular operações básicas de um banco, como criação de contas, depósitos, saques e consulta de extrato, utilizando conceitos fundamentais de Python, estrutura de dados e controle de fluxo.
+Este sistema bancário foi desenvolvido como parte do Curso de Engenharia de Dados com Python 2024, promovido pelo DIO em parceria com a NTT DATA. O objetivo principal deste projeto é simular operações básicas de um banco, como criação de contas, depósitos, saques e consulta de extrato, utilizando conceitos fundamentais de Python, estrutura de dados e controle de fluxo.
 
 ## Funcionalidades
 
